@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWYrZRhG1i9RshqVUDofwI8smW2tRwKRFijoKyZe3U2IvM2HsP+/RxS0h3g1KmT8hsszDRj9ziR6ghAz+sUd4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
