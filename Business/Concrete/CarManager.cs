@@ -16,9 +16,26 @@ namespace Business.Concrete
             _carDal = carDal;
         }
 
+        public void Add(Car car)
+        {
+            if (car.Description.Length >= 2 && car.DailyPrice > 0)
+            {
+                _carDal.Add(car);
+            }
+            else
+            {
+                Console.WriteLine("Kayıt başarısız! Araba ile ilgili açıklamanız en az 2 karakterden oluşmalıdır ve  fiyat 0'dan büyük olmalıdır.");
+            }
+        }
+
         public List<Car> GetAll()
         {
             return _carDal.GetAll();
+        }
+
+        public List<Car> GetAllByBrandId(int id)
+        {
+            return _carDal.GetAll(p => p.BrandId == id);
         }
     }
 }
