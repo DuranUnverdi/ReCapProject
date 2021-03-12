@@ -1,4 +1,6 @@
 ﻿using Business.Abstract;
+using Business.Constants;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
@@ -14,24 +16,26 @@ namespace Business.Concrete
         {
             _rentalDal = rentalDal;
         }
-        public void Add(Rental rental)
+        public IResult Add(Rental rental)
         {
             _rentalDal.Add(rental);
+            return new SuccessResult(Messages.CarAdded);
         }
 
-        public List<Rental> GetAll()
+        public IDataResult<List<Rental>> GetAll()
         {
-            return _rentalDal.GetAll();
+            return new SuccessDataResult<List<Rental>> (_rentalDal.GetAll(),Messages.CarsListed);
         }
 
-        public List<Rental> GetAllByCustomerdId(int id)
+        public IDataResult<List<Rental>> GetAllByCustomerdId(int id)
         {
-            return _rentalDal.GetAll(r => r.CustomerId == id);
+            return new SuccessDataResult<List<Rental>>( _rentalDal.GetAll(r => r.CustomerId == id));
         }
 
-        public void Update(Rental rental)
+        public IResult Update(Rental rental)
         {
             _rentalDal.Update(rental);
+            return new SuccessResult(Messages.CarUpdated);
         }
     }
 }
