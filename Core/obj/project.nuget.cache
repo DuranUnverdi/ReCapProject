@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xXNgfZlhb4NfoghE9Pbam4/d/MYJMchSze1h13cGLUZYXoX6guqj447nc7EvZyE8PYPGnUBdoE5Xkpdmm8wWrg==",
+  "dgSpecHash": "UbX2rId1TAeCmznS0/v4NuDVr5wfotlomlsdoZo6r3SEMh9uD1M5DazvMYendeEkyDLjZ/vHYIwzG5ggyp0yxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj",
+  "projectFilePath": "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

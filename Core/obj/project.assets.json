@@ -6144,11 +6144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj",
+      "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\obj\\",
+      "outputPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

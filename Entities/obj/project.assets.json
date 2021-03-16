@@ -6162,11 +6162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\Entities.csproj",
+      "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\obj\\",
+      "outputPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6186,8 +6186,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj"
+            "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj"
             }
           }
         }

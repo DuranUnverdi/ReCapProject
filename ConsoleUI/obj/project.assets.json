@@ -5684,11 +5684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duran\\Desktop\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\masaüstü\\.netcore\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\masaüstü\\.netcore\\ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5708,14 +5708,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Duran\\Desktop\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Business\\Business.csproj"
+            "D:\\masaüstü\\.netcore\\ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Duran\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "D:\\masaüstü\\.netcore\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\Entities.csproj"
+            "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }

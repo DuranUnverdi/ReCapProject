@@ -6182,11 +6182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duran\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\masaüstü\\.netcore\\ReCapProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\DataAccess\\obj\\",
+      "outputPath": "D:\\masaüstü\\.netcore\\ReCapProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6206,11 +6206,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Core\\Core.csproj"
+            "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\ReCapProject\\Entities\\Entities.csproj"
+            "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }
