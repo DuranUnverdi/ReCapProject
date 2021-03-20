@@ -7,3 +7,12 @@ C:\Users\Duran\Desktop\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.Co
 C:\Users\Duran\Desktop\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\Duran\Desktop\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb
 C:\Users\Duran\Desktop\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\masaüstü\.netcore\ReCapProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\masaüstü\.netcore\ReCapProject\Core\bin\Debug\netstandard2.0\Core.dll
+D:\masaüstü\.netcore\ReCapProject\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\masaüstü\.netcore\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\masaüstü\.netcore\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\masaüstü\.netcore\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\masaüstü\.netcore\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\masaüstü\.netcore\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
+D:\masaüstü\.netcore\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb

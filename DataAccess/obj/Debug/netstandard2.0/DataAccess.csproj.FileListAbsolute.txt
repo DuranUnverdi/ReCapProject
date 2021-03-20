@@ -12,3 +12,17 @@ C:\Users\Duran\Desktop\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAcce
 C:\Users\Duran\Desktop\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\Duran\Desktop\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
 C:\Users\Duran\Desktop\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\masaüstü\.netcore\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\masaüstü\.netcore\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

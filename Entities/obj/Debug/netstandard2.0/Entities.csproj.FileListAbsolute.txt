@@ -10,3 +10,15 @@ C:\Users\Duran\Desktop\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.p
 C:\Users\Duran\Desktop\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
 C:\Users\Duran\Desktop\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\Duran\Desktop\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+D:\masaüstü\.netcore\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\masaüstü\.netcore\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\masaüstü\.netcore\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\masaüstü\.netcore\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\masaüstü\.netcore\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\masaüstü\.netcore\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
