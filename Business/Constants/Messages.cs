@@ -14,5 +14,8 @@ namespace Business.Constants
 
         internal static string CarsListed= "Listeleme Başarılı";
         internal static string MaintenanceTime="Sistem bakımda";
+        public static string CarCountOfCategoryError="Bir markada en fazla 10 araç olabilir";
+        public static string CarNameAlreadyExists="Açıklama alanları aynı olamaz";
+        public static string BrandLimitExceded="Marka limiti aşıldığı için yeni kayıt yapılamıyor";
     }
 }
